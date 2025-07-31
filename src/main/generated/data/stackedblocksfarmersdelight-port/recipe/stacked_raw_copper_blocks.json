@@ -3,7 +3,7 @@
   "category": "misc",
   "group": "stacked_raw_copper_blocks",
   "key": {
-    "#": "minecraft:raw_copper",
+    "#": "minecraft:raw_copper_block",
     "R": "farmersdelight:rope"
   },
   "pattern": [

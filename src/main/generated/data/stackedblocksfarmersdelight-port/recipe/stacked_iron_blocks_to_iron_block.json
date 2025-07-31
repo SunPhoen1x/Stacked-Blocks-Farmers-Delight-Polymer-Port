@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    "stackedblocksfarmersdelight-port:stacked_raw_gold_blocks"
+    "stackedblocksfarmersdelight-port:stacked_iron_blocks"
   ],
   "result": {
     "count": 8,
-    "id": "minecraft:raw_gold"
+    "id": "minecraft:iron_block"
   }
 }

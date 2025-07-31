@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    "stackedblocksfarmersdelight-port:stacked_quartz_blocks"
+    "stackedblocksfarmersdelight-port:stacked_raw_copper_blocks"
   ],
   "result": {
     "count": 8,
-    "id": "minecraft:quartz"
+    "id": "minecraft:raw_copper_block"
   }
 }

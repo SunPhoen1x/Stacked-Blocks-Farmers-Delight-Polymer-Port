@@ -3,7 +3,7 @@
   "category": "misc",
   "group": "stacked_coal_blocks",
   "key": {
-    "#": "minecraft:coal",
+    "#": "minecraft:coal_block",
     "R": "farmersdelight:rope"
   },
   "pattern": [

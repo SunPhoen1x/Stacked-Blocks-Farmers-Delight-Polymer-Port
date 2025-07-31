@@ -1,11 +1,11 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_stacked_quartz_blocks": {
+    "has_stacked_redstone_blocks": {
       "conditions": {
         "items": [
           {
-            "items": "stackedblocksfarmersdelight-port:stacked_quartz_blocks"
+            "items": "stackedblocksfarmersdelight-port:stacked_redstone_blocks"
           }
         ]
       },
@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "stackedblocksfarmersdelight-port:stacked_quartz_blocks_to_quartz"
+        "recipe": "stackedblocksfarmersdelight-port:stacked_redstone_blocks_to_redstone_block"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -21,12 +21,12 @@
   "requirements": [
     [
       "has_the_recipe",
-      "has_stacked_quartz_blocks"
+      "has_stacked_redstone_blocks"
     ]
   ],
   "rewards": {
     "recipes": [
-      "stackedblocksfarmersdelight-port:stacked_quartz_blocks_to_quartz"
+      "stackedblocksfarmersdelight-port:stacked_redstone_blocks_to_redstone_block"
     ]
   }
 }

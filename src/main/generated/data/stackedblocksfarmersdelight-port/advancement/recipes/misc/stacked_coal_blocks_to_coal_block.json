@@ -1,11 +1,11 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_stacked_iron_blocks": {
+    "has_stacked_coal_blocks": {
       "conditions": {
         "items": [
           {
-            "items": "stackedblocksfarmersdelight-port:stacked_iron_blocks"
+            "items": "stackedblocksfarmersdelight-port:stacked_coal_blocks"
           }
         ]
       },
@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "stackedblocksfarmersdelight-port:stacked_iron_blocks_to_iron_ingot"
+        "recipe": "stackedblocksfarmersdelight-port:stacked_coal_blocks_to_coal_block"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -21,12 +21,12 @@
   "requirements": [
     [
       "has_the_recipe",
-      "has_stacked_iron_blocks"
+      "has_stacked_coal_blocks"
     ]
   ],
   "rewards": {
     "recipes": [
-      "stackedblocksfarmersdelight-port:stacked_iron_blocks_to_iron_ingot"
+      "stackedblocksfarmersdelight-port:stacked_coal_blocks_to_coal_block"
     ]
   }
 }

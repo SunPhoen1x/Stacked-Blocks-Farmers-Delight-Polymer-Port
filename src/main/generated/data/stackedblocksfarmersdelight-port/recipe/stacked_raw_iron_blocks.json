@@ -3,7 +3,7 @@
   "category": "misc",
   "group": "stacked_raw_iron_blocks",
   "key": {
-    "#": "minecraft:raw_iron",
+    "#": "minecraft:raw_iron_block",
     "R": "farmersdelight:rope"
   },
   "pattern": [

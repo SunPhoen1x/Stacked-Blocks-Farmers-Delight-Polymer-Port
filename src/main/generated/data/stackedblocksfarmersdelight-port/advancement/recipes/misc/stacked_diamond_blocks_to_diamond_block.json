@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "stackedblocksfarmersdelight-port:stacked_diamond_blocks_to_diamond"
+        "recipe": "stackedblocksfarmersdelight-port:stacked_diamond_blocks_to_diamond_block"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "stackedblocksfarmersdelight-port:stacked_diamond_blocks_to_diamond"
+      "stackedblocksfarmersdelight-port:stacked_diamond_blocks_to_diamond_block"
     ]
   }
 }

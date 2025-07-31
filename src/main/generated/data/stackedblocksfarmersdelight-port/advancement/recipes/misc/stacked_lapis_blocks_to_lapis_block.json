@@ -1,11 +1,11 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_stacked_raw_gold_blocks": {
+    "has_stacked_lapis_blocks": {
       "conditions": {
         "items": [
           {
-            "items": "stackedblocksfarmersdelight-port:stacked_raw_gold_blocks"
+            "items": "stackedblocksfarmersdelight-port:stacked_lapis_blocks"
           }
         ]
       },
@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "stackedblocksfarmersdelight-port:stacked_raw_gold_blocks_to_raw_gold"
+        "recipe": "stackedblocksfarmersdelight-port:stacked_lapis_blocks_to_lapis_block"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -21,12 +21,12 @@
   "requirements": [
     [
       "has_the_recipe",
-      "has_stacked_raw_gold_blocks"
+      "has_stacked_lapis_blocks"
     ]
   ],
   "rewards": {
     "recipes": [
-      "stackedblocksfarmersdelight-port:stacked_raw_gold_blocks_to_raw_gold"
+      "stackedblocksfarmersdelight-port:stacked_lapis_blocks_to_lapis_block"
     ]
   }
 }

@@ -3,7 +3,7 @@
   "category": "misc",
   "group": "stacked_diamond_blocks",
   "key": {
-    "#": "minecraft:diamond",
+    "#": "minecraft:diamond_block",
     "R": "farmersdelight:rope"
   },
   "pattern": [

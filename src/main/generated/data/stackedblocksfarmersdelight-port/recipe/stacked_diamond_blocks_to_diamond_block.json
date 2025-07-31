@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    "stackedblocksfarmersdelight-port:stacked_netherite_blocks"
+    "stackedblocksfarmersdelight-port:stacked_diamond_blocks"
   ],
   "result": {
     "count": 8,
-    "id": "minecraft:netherite_ingot"
+    "id": "minecraft:diamond_block"
   }
 }

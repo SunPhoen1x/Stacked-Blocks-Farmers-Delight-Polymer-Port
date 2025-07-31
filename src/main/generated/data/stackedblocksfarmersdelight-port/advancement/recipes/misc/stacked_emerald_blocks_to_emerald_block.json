@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "stackedblocksfarmersdelight-port:stacked_emerald_blocks_to_emerald"
+        "recipe": "stackedblocksfarmersdelight-port:stacked_emerald_blocks_to_emerald_block"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "stackedblocksfarmersdelight-port:stacked_emerald_blocks_to_emerald"
+      "stackedblocksfarmersdelight-port:stacked_emerald_blocks_to_emerald_block"
     ]
   }
 }

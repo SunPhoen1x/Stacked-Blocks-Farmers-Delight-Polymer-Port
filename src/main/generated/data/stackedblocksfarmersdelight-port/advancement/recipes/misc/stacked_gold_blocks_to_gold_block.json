@@ -1,11 +1,11 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_stacked_raw_iron_blocks": {
+    "has_stacked_gold_blocks": {
       "conditions": {
         "items": [
           {
-            "items": "stackedblocksfarmersdelight-port:stacked_raw_iron_blocks"
+            "items": "stackedblocksfarmersdelight-port:stacked_gold_blocks"
           }
         ]
       },
@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "stackedblocksfarmersdelight-port:stacked_raw_iron_blocks_to_raw_iron"
+        "recipe": "stackedblocksfarmersdelight-port:stacked_gold_blocks_to_gold_block"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -21,12 +21,12 @@
   "requirements": [
     [
       "has_the_recipe",
-      "has_stacked_raw_iron_blocks"
+      "has_stacked_gold_blocks"
     ]
   ],
   "rewards": {
     "recipes": [
-      "stackedblocksfarmersdelight-port:stacked_raw_iron_blocks_to_raw_iron"
+      "stackedblocksfarmersdelight-port:stacked_gold_blocks_to_gold_block"
     ]
   }
 }

@@ -3,7 +3,7 @@
   "category": "misc",
   "group": "stacked_redstone_blocks",
   "key": {
-    "#": "minecraft:redstone",
+    "#": "minecraft:redstone_block",
     "R": "farmersdelight:rope"
   },
   "pattern": [
