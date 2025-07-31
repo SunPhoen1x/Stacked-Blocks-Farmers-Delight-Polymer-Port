@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "stackedblocksfarmersdelight-port:block/stacked_stripped_oak_logs_bottom",
+    "east": "stackedblocksfarmersdelight-port:block/stacked_stripped_oak_logs_side",
+    "north": "stackedblocksfarmersdelight-port:block/stacked_stripped_oak_logs_side",
+    "particle": "stackedblocksfarmersdelight-port:block/stacked_stripped_oak_logs_side",
+    "south": "stackedblocksfarmersdelight-port:block/stacked_stripped_oak_logs_side",
+    "up": "stackedblocksfarmersdelight-port:block/stacked_stripped_oak_logs_top",
+    "west": "stackedblocksfarmersdelight-port:block/stacked_stripped_oak_logs_side"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "stackedblocksfarmersdelight-port:block/stacked_rich_soil_bottom",
+    "east": "stackedblocksfarmersdelight-port:block/stacked_rich_soil_side",
+    "north": "stackedblocksfarmersdelight-port:block/stacked_rich_soil_side",
+    "particle": "stackedblocksfarmersdelight-port:block/stacked_rich_soil_side",
+    "south": "stackedblocksfarmersdelight-port:block/stacked_rich_soil_side",
+    "up": "stackedblocksfarmersdelight-port:block/stacked_rich_soil_top",
+    "west": "stackedblocksfarmersdelight-port:block/stacked_rich_soil_side"
+  }
+}

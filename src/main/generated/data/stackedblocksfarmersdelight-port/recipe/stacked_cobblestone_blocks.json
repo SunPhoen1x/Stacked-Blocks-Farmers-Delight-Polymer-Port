@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "stacked_cobblestone_blocks",
+  "key": {
+    "#": "minecraft:cobblestone",
+    "R": "farmersdelight:rope"
+  },
+  "pattern": [
+    "###",
+    "#R#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "stackedblocksfarmersdelight-port:stacked_cobblestone_blocks"
+  }
+}

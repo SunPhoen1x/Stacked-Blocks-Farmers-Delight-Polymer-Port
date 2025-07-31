@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "stackedblocksfarmersdelight-port:stacked_crimson_stems"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:crimson_stem"
+  }
+}

@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "stackedblocksfarmersdelight-port",
+	"version": "${version}",
+	"name": "stackedblocksfarmersdelight-port",
+	"description": "Polmer port of Stacked Blocks: Farmer's Delight",
+	"authors": [
+		"Sun_Phoen1x"
+	],
+	"contact": {
+		"homepage": "https://discord.gg/SRUMPPWcvF",
+		"sources": "https://github.com/SunPhoen1x/stackedblocks-farmersdelight-port"
+	},
+	"license": "MIT",
+	"icon": "assets/stackedblocksfarmersdelight-port/logo.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.phoen1x.Stackedblocksfarmersdelightport"
+		],
+		"fabric-datagen": [
+			"com.phoen1x.StackedblocksfarmersdelightportDataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.6",
+		"java": ">=21",
+		"fabric-api": "*",
+		"polymer-core": ">=0.13.3",
+		"polymer-resource-pack": ">=0.13.3",
+		"polymer-virtual-entity": ">=0.13.3"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

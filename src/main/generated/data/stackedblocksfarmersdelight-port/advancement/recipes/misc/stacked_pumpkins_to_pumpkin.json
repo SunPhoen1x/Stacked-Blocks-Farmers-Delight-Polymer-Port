@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_stacked_pumpkins": {
+      "conditions": {
+        "items": [
+          {
+            "items": "stackedblocksfarmersdelight-port:stacked_pumpkins"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "stackedblocksfarmersdelight-port:stacked_pumpkins_to_pumpkin"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_stacked_pumpkins"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "stackedblocksfarmersdelight-port:stacked_pumpkins_to_pumpkin"
+    ]
+  }
+}

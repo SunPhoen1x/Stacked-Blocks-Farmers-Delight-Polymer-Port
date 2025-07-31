@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "stacked_raw_gold_blocks",
+  "key": {
+    "#": "minecraft:raw_gold",
+    "R": "farmersdelight:rope"
+  },
+  "pattern": [
+    "###",
+    "#R#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "stackedblocksfarmersdelight-port:stacked_raw_gold_blocks"
+  }
+}

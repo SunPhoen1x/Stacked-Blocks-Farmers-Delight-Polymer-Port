@@ -1,0 +1,20 @@
+{
+  "values": [
+    "stackedblocksfarmersdelight-port:stacked_stone_blocks",
+    "stackedblocksfarmersdelight-port:stacked_cobblestone_blocks",
+    "stackedblocksfarmersdelight-port:stacked_netherrack_blocks",
+    "stackedblocksfarmersdelight-port:stacked_bricks",
+    "stackedblocksfarmersdelight-port:stacked_raw_iron_blocks",
+    "stackedblocksfarmersdelight-port:stacked_raw_gold_blocks",
+    "stackedblocksfarmersdelight-port:stacked_raw_copper_blocks",
+    "stackedblocksfarmersdelight-port:stacked_lapis_blocks",
+    "stackedblocksfarmersdelight-port:stacked_redstone_blocks",
+    "stackedblocksfarmersdelight-port:stacked_coal_blocks",
+    "stackedblocksfarmersdelight-port:stacked_iron_blocks",
+    "stackedblocksfarmersdelight-port:stacked_gold_blocks",
+    "stackedblocksfarmersdelight-port:stacked_emerald_blocks",
+    "stackedblocksfarmersdelight-port:stacked_diamond_blocks",
+    "stackedblocksfarmersdelight-port:stacked_netherite_blocks",
+    "stackedblocksfarmersdelight-port:stacked_quartz_blocks"
+  ]
+}

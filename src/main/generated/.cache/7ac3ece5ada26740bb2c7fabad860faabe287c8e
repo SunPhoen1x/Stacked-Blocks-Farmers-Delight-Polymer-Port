@@ -1,0 +1,4 @@
+// 1.21.6	-999999999-01-01T00:00:00	stackedblocksfarmersdelight-port/Tags for minecraft:block
+29f0d2c97be8aa6372575c20482b9f10519b89ba data/minecraft/tags/block/mineable/axe.json
+98efbd09b974d74aa1f0dc58892461338fad6a3c data/minecraft/tags/block/mineable/hoe.json
+1f928ac7bcd1baedb7d17c8519f8059d0e1b5aef data/minecraft/tags/block/mineable/pickaxe.json

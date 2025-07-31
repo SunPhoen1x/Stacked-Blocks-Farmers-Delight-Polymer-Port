@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_stacked_cobblestone_blocks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "stackedblocksfarmersdelight-port:stacked_cobblestone_blocks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "stackedblocksfarmersdelight-port:stacked_cobblestone_blocks_to_cobblestone"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_stacked_cobblestone_blocks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "stackedblocksfarmersdelight-port:stacked_cobblestone_blocks_to_cobblestone"
+    ]
+  }
+}

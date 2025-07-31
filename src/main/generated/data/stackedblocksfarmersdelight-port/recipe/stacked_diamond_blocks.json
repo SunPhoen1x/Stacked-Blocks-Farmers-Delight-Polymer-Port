@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "stacked_diamond_blocks",
+  "key": {
+    "#": "minecraft:diamond",
+    "R": "farmersdelight:rope"
+  },
+  "pattern": [
+    "###",
+    "#R#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "stackedblocksfarmersdelight-port:stacked_diamond_blocks"
+  }
+}

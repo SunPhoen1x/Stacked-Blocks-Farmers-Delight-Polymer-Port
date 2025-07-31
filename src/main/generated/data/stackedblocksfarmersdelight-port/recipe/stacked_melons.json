@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "stacked_melons",
+  "key": {
+    "#": "minecraft:melon",
+    "R": "farmersdelight:rope"
+  },
+  "pattern": [
+    "###",
+    "#R#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "stackedblocksfarmersdelight-port:stacked_melons"
+  }
+}

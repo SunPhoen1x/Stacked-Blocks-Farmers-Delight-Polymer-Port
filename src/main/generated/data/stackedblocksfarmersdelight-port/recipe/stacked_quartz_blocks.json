@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "stacked_quartz_blocks",
+  "key": {
+    "#": "minecraft:quartz",
+    "R": "farmersdelight:rope"
+  },
+  "pattern": [
+    "###",
+    "#R#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "stackedblocksfarmersdelight-port:stacked_quartz_blocks"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "stackedblocksfarmersdelight-port:stacked_jungle_logs"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:jungle_log"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "stackedblocksfarmersdelight-port:block/stacked_melons_bottom",
+    "east": "stackedblocksfarmersdelight-port:block/stacked_melons_side",
+    "north": "stackedblocksfarmersdelight-port:block/stacked_melons_side",
+    "particle": "stackedblocksfarmersdelight-port:block/stacked_melons_side",
+    "south": "stackedblocksfarmersdelight-port:block/stacked_melons_side",
+    "up": "stackedblocksfarmersdelight-port:block/stacked_melons_top",
+    "west": "stackedblocksfarmersdelight-port:block/stacked_melons_side"
+  }
+}

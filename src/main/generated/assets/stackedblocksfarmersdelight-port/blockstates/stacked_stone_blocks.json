@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "stackedblocksfarmersdelight-port:block/stacked_stone_blocks"
+    }
+  }
+}

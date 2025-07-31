@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "stackedblocksfarmersdelight-port:block/stacked_stone_blocks_bottom",
+    "east": "stackedblocksfarmersdelight-port:block/stacked_stone_blocks_side",
+    "north": "stackedblocksfarmersdelight-port:block/stacked_stone_blocks_side",
+    "particle": "stackedblocksfarmersdelight-port:block/stacked_stone_blocks_side",
+    "south": "stackedblocksfarmersdelight-port:block/stacked_stone_blocks_side",
+    "up": "stackedblocksfarmersdelight-port:block/stacked_stone_blocks_top",
+    "west": "stackedblocksfarmersdelight-port:block/stacked_stone_blocks_side"
+  }
+}
